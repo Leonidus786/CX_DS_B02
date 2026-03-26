@@ -30,12 +30,12 @@ venv/
 # ----------------------------
 data/
 datasets/
-*.csv
-*.xlsx
-*.xls
-*.parquet
-*.json
-*.zip
+# *.csv
+# *.xlsx
+# *.xls
+# *.parquet
+# *.json
+# *.zip
 
 # ----------------------------
 # MODEL ARTIFACTS
