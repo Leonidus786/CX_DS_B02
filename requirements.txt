@@ -1,39 +1,42 @@
 # ----------------------------
-# DA CORE (Data Analytics)
+# CORE PYTHON UTILITIES
+# ----------------------------
+pip
+setuptools
+wheel
+
+# ----------------------------
+# DATA ANALYSIS (DA)
 # ----------------------------
 numpy
 pandas
 scipy
-
-# Visualization
-matplotlib
-seaborn
-plotly
-
-# Excel / Files
 openpyxl
 xlrd
 pyarrow
-
-# SQL
+polars
 sqlalchemy
 psycopg2-binary
 pymysql
 
-# Utilities
-python-dateutil
-tqdm
-rich
+# ----------------------------
+# DATA VISUALIZATION
+# ----------------------------
+matplotlib
+seaborn
+plotly
+bokeh
+altair
 
-
-
-
-
-# Statistics
+# ----------------------------
+# STATISTICS & EDA
+# ----------------------------
 statsmodels
 scikit-posthocs
 
-# Machine Learning
+# ----------------------------
+# MACHINE LEARNING (ML)
+# ----------------------------
 scikit-learn
 xgboost
 lightgbm
@@ -41,7 +44,97 @@ catboost
 imbalanced-learn
 joblib
 
-# Jupyter
+# ----------------------------
+# DEEP LEARNING (DL)
+# ----------------------------
+# torch
+# torchvision
+# torchaudio
+# tensorflow
+# keras
+
+# ----------------------------
+# NLP & GENAI
+# ----------------------------
+# transformers
+# datasets
+# tokenizers
+# sentencepiece
+# accelerate
+# huggingface-hub
+
+# ----------------------------
+# LLM / AGENTIC AI
+# ----------------------------
+# langchain
+# langchain-community
+# langchain-openai
+# langchain-huggingface
+# llama-index
+# chromadb
+# faiss-cpu
+
+# ----------------------------
+# VECTOR DATABASES
+# ----------------------------
+qdrant-client
+pinecone-client
+
+# ----------------------------
+# JUPYTER & NOTEBOOKS
+# ----------------------------
 jupyterlab
+notebook
 ipykernel
 ipywidgets
+nbformat
+
+# ----------------------------
+# MLOPS / EXPERIMENT TRACKING
+# ----------------------------
+# mlflow
+# optuna
+# dvc
+
+# ----------------------------
+# API / APP DEV (DS → PROD)
+# ----------------------------
+fastapi
+uvicorn
+pydantic
+streamlit
+gradio
+
+# ----------------------------
+# CLOUD / DEVOPS
+# ----------------------------
+# boto3
+# google-cloud-storage
+# azure-storage-blob
+# docker
+
+# ----------------------------
+# TESTING & CODE QUALITY
+# ----------------------------
+pytest
+black
+isort
+flake8
+mypy
+
+# ----------------------------
+# SECURITY / AI SAFETY (FOUNDATION)
+# ----------------------------
+# cryptography
+# python-dotenv
+# requests
+# httpx
+# bandit
+
+# ----------------------------
+# MISC / UTILITIES
+# ----------------------------
+tqdm
+rich
+loguru
+python-dateutil
