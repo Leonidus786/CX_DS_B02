@@ -1,0 +1,47 @@
+# ----------------------------
+# DA CORE (Data Analytics)
+# ----------------------------
+numpy
+pandas
+scipy
+
+# Visualization
+matplotlib
+seaborn
+plotly
+
+# Excel / Files
+openpyxl
+xlrd
+pyarrow
+
+# SQL
+sqlalchemy
+psycopg2-binary
+pymysql
+
+# Utilities
+python-dateutil
+tqdm
+rich
+
+
+
+
+
+# Statistics
+statsmodels
+scikit-posthocs
+
+# Machine Learning
+scikit-learn
+xgboost
+lightgbm
+catboost
+imbalanced-learn
+joblib
+
+# Jupyter
+jupyterlab
+ipykernel
+ipywidgets
